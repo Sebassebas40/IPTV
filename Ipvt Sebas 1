@@ -3,29 +3,29 @@
 https://panel.dattalive.com/8250/8250/chunklist_w173286734.m3u8
 #EXTINF:-1 ,Canal 10 de salta
 https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
-#EXTINF:-1 ,Canal 7 de salta
+#EXTINF:-1 tvg-logo="https://canal7salta.com/wp-content/uploads/2019/10/unnamed-e1571613215135.jpg" ,Canal 7 de salta
 https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/chunklist_w474405533.m3u8
-#EXTINF:-1 ,Canal 2 de salta
+#EXTINF:-1 tvg-logo="http://altoremix.com.ar/site/images/canal2okok.jpg" , Canal 2 de salta
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-#EXTINF:-1 , Neox Tv Salta
+#EXTINF:-1  tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NEOX-SALTA-300x240.jpg" , Neox Tv Salta
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
-#EXTINF:-1 , CRONICA TV
-https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/mcopl219gq8x7s.m3u8?s=Vgdr8msoICB1Ba8r3AQnOQ&e=1628510800
-#EXTINF:-1 , EL NUEVE BS AS
+#EXTINF:-1 tvg-logo="https://www.avisosencronica.com/wp-content/uploads/2019/02/publicidad-en-cronica-tv-television.jpg" , CRONICA TV
+https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/mcopl219gq8x7s.m3u8?s=IsofFgSWtQrIdVf6ftBP4g&e=1628541570
+#EXTINF:-1 tvg-logo="" , EL NUEVE BS AS
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/rhbmhdp3ux.m3u8?s=AgP5cukk6Gm8AyJnvyQiZA&e=1628511079
-#EXTINF:-1 , TELEMAX
+#EXTINF:-1 tvg-logo="" , TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
-#EXTINF:-1 , TELEFE
+#EXTINF:-1 tvg-logo="" , TELEFE
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=YavOImG_oUb2yIoOfeEVSQ&e=1628510959
-#EXTINF:-1 , CANAL 13
+#EXTINF:-1 tvg-logo="" , CANAL 13
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/s7smi57g.m3u8?s=oCTCB5mDCsRwjL1j2_7gtw&e=1628511030
-#EXTINF:-1 , Tyc sports
+#EXTINF:-1 tvg-logo="" , Tyc sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
-#EXTINF:-1 , TNT sports
+#EXTINF:-1 tvg-logo="" , TNT sports
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/kqfqxg.m3u8?s=qrm4V9RQ0xrwN_VDsLmpSw&e=1628504821
-#EXTINF:-1 , ESPN
+#EXTINF:-1 tvg-logo="" , ESPN
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/yzfwp0ngkv.m3u8?s=1ip_kbwHDZYeon3WL4IuIg&e=1628535524
-#EXTINF:-1 , ESPN 2
+#EXTINF:-1 tvg-logo="" , ESPN 2
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/xqnp3kvij9pvoub.m3u8?s=NRTnvygElJVNtXkXZsQnVA&e=1628503751
 #EXTINF:-1 , ESPN 3
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/30lli7indcom.m3u8?s=Shv_YXrRyLhnvk5CVluQMA&e=1628504935
