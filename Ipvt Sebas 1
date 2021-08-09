@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-aKHK8Ajrcc0/TpOoS0KRJLI/AAAAAAAAQT4/edRRDvx0kkQ/s1600/canal9salta.png" ,Canal 9 de salta
+#EXTINF:-1 tvg-logo ="http://3.bp.blogspot.com/-aKHK8Ajrcc0/TpOoS0KRJLI/AAAAAAAAQT4/edRRDvx0kkQ/s1600/canal9salta.png" ,Canal 9 de salta
 https://panel.dattalive.com/8250/8250/chunklist_w173286734.m3u8
 #EXTINF:-1 ,Canal 10 de salta
 https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
