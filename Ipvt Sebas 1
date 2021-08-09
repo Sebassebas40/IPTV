@@ -49,23 +49,23 @@ https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/x5r58d0omlmqph.m3u8?s=7wEOkVBVTNY
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/mfobze65eqg.m3u8?s=ei5utB2tME7ThwhFFtMBAg&e=1628536816
 #EXTINF:-1 tvg-logo="" , TNT SERIES
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/uw2t3eem.m3u8?s=XB5ysHS68KZG6oDVGu1o5Q&e=1628506055
-#EXTINF:-1 tvg-logo="" , TNT 
-https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/glaldsq.m3u8?s=tCF7mgNIv4ajg3TuZ0IlOQ&e=1628506259
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" , TNT 
+https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/glaldsq.m3u8?s=pEKuIyNh0abNRh1756onBA&e=1628550189
 #EXTINF:-1 tvg-logo="" , UNIVERSAL CHANNEL
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/xu9jpirg.m3u8?s=9BIRo8HCtt3Y09XDF0zwCA&e=1628548691
-#EXTINF:-1 tvg-logo="" , STUDIO UNIVERSAL
-https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=jqbHWgxcFDWmfA6cMkZEJw&e=1628506334
-#EXTINF:-1 tvg-logo="" , PARAMOUNT CHANNEL
-https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/vwchy5d.m3u8?s=78Tfhjv28r_JOLVJ7yVlkw&e=1628510045
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" , STUDIO UNIVERSAL
+https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=jN6uM2zGl9pIvMjRCrPSLA&e=1628550134
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" , PARAMOUNT CHANNEL
+https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/vwchy5d.m3u8?s=p5tz4AOLcFcqbitteVEqZw&e=1628550085
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/fox-premium-action-200x200-506187102.jpg" , FOX ACTION
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/4612rwe.m3u8?s=zo9SBkR3Lhq7q3LZn5nSrQ&e=1628548494
-#EXTINF:-1 tvg-logo="", FOX FAMILY
+#EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/img/foxpremiumfamily.png", FOX FAMILY
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/goks9npik9.m3u8?s=SqzZHeHJbZAq61E5BMz8ew&e=1628548453
-#EXTINF:-1 tvg-logo="", FOX SERIES
+#EXTINF:-1 tvg-logo="http://seriepolis.com/wp-content/uploads/2017/03/FOX-PREMIUM-SERIES-SIN-FONDO-01-1.png", FOX SERIES
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/in515ybo3y.m3u8?s=bOwiQ0ERym7uxZvuMK-GCg&e=1628548409
 #EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/fox-comedy-3064.png", FOX COMEDY
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/pnc0det5nknvqo.m3u8?s=NU9XdcEgrIZnJYFd1UOnqg&e=1628548370
-#EXTINF:-1 tvg-logo="", FOX MOVIE
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/899/147/png-clipart-fox-movies-logo-fox-action-movies-television-film-fox-business-news-logo-television-angle.png", FOX MOVIE
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/4dtc368405sw4mo.m3u8?s=2PCBoVgFM6NtkIP0P7tcHA&e=1628548326
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png", GOLDEN
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/lnxn10nmtnl5.m3u8?s=15TMLkBpUqhi7Tu6Oe2kMw&e=1628549022
