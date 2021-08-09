@@ -67,16 +67,16 @@ https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/in515ybo3y.m3u8?s=bOwiQ0ERym7uxZv
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/pnc0det5nknvqo.m3u8?s=NU9XdcEgrIZnJYFd1UOnqg&e=1628548370
 #EXTINF:-1 tvg-logo="", FOX MOVIE
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/4dtc368405sw4mo.m3u8?s=2PCBoVgFM6NtkIP0P7tcHA&e=1628548326
-#EXTINF:-1 tvg-logo="", GOLDEN
-https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/lnxn10nmtnl5.m3u8?s=cIPKhYp024k2jr028F7sZw&e=1628510368
-#EXTINF:-1 tvg-logo="", CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png", GOLDEN
+https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/lnxn10nmtnl5.m3u8?s=15TMLkBpUqhi7Tu6Oe2kMw&e=1628549022
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/aa/50/94aa508101091d9afbc7519458baca6a.png", CINEMAX
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/ztv7sh.m3u8?s=eJsc589LRI1dp-kpUGUWEA&e=1628510453
-#EXTINF:-1 tvg-logo="", CINECANAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/ymv0a1aobkxuf.m3u8?s=fTc9f-rwKMeLgvnoKGtHew&e=1628548653
-#EXTINF:-1 tvg-logo="", AXN HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1320645928731189248/VVDjECtz.jpg", AXN HD
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/l051rl.m3u8?s=cMLrvM6bnno9lZt3hccJCA&e=1628548621
-#EXTINF:-1 tvg-logo="", SONY CHANNEL
-https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/oc2v2i6j.m3u8?s=8MBLZlgonfHAbOkM2nzOQQ&e=1628510663
-#EXTINF:-1 tvg-logo="", WARNER CHANNEL
-https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/j5uwhfb7w5c.m3u8?s=0F5AxY4UnULLXURlFD8_9A&e=1628510711
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY CHANNEL
+https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/oc2v2i6j.m3u8?s=cWo4Mcx4aEXrlrjlPfAcLg&e=1628548960
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png", WARNER CHANNEL
+https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/j5uwhfb7w5c.m3u8?s=-UA32ykOMTD7FSviBeCQPg&e=1628548851
 
