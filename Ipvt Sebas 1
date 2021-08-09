@@ -57,7 +57,7 @@ https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/xu9jpirg.m3u8?s=9BIRo8HCtt3Y09XDF
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=jqbHWgxcFDWmfA6cMkZEJw&e=1628506334
 #EXTINF:-1 tvg-logo="" , PARAMOUNT CHANNEL
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/vwchy5d.m3u8?s=78Tfhjv28r_JOLVJ7yVlkw&e=1628510045
-#EXTINF:-1 tvg-logo="" , FOX ACTION
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/fox-premium-action-200x200-506187102.jpg" , FOX ACTION
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/4612rwe.m3u8?s=zo9SBkR3Lhq7q3LZn5nSrQ&e=1628548494
 #EXTINF:-1 tvg-logo="", FOX FAMILY
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/goks9npik9.m3u8?s=SqzZHeHJbZAq61E5BMz8ew&e=1628548453
@@ -65,7 +65,7 @@ https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/goks9npik9.m3u8?s=SqzZHeHJbZAq61E
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/in515ybo3y.m3u8?s=bOwiQ0ERym7uxZvuMK-GCg&e=1628548409
 #EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/fox-comedy-3064.png", FOX COMEDY
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/pnc0det5nknvqo.m3u8?s=NU9XdcEgrIZnJYFd1UOnqg&e=1628548370
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/fox-premium-action-200x200-506187102.jpg", FOX MOVIE
+#EXTINF:-1 tvg-logo="", FOX MOVIE
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/4dtc368405sw4mo.m3u8?s=2PCBoVgFM6NtkIP0P7tcHA&e=1628548326
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png", GOLDEN
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/lnxn10nmtnl5.m3u8?s=15TMLkBpUqhi7Tu6Oe2kMw&e=1628549022
@@ -79,4 +79,6 @@ https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/l051rl.m3u8?s=cMLrvM6bnno9lZt3hcc
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/oc2v2i6j.m3u8?s=cWo4Mcx4aEXrlrjlPfAcLg&e=1628548960
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png", WARNER CHANNEL
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/j5uwhfb7w5c.m3u8?s=-UA32ykOMTD7FSviBeCQPg&e=1628548851
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
+https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/96859.m3u8?s=OGZ4U-gc2OJha62CcYWuQA&e=1628549551
 
