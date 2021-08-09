@@ -11,43 +11,43 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 #EXTINF:-1 tvg-logo="https://www.avisosencronica.com/wp-content/uploads/2019/02/publicidad-en-cronica-tv-television.jpg" , CRONICA TV
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/mcopl219gq8x7s.m3u8?s=IsofFgSWtQrIdVf6ftBP4g&e=1628541570
-#EXTINF:-1 tvg-logo="" , EL NUEVE BS AS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" , EL NUEVE BS AS
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/rhbmhdp3ux.m3u8?s=AgP5cukk6Gm8AyJnvyQiZA&e=1628511079
-#EXTINF:-1 tvg-logo="" , TELEMAX
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/782.gif" , TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
-#EXTINF:-1 tvg-logo="" , TELEFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg" , TELEFE
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/x8rbhuvs3uyfie.m3u8?s=YavOImG_oUb2yIoOfeEVSQ&e=1628510959
-#EXTINF:-1 tvg-logo="" , CANAL 13
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-i96DKDWO2cE/VnbTW0tQWWI/AAAAAAAAAfQ/Mhi1-hSaCUM/s1600/eltrece-hd.png" , CANAL 13
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/s7smi57g.m3u8?s=oCTCB5mDCsRwjL1j2_7gtw&e=1628511030
-#EXTINF:-1 tvg-logo="" , Tyc sports
+#EXTINF:-1 tvg-logo="https://rrhhjobs.com/wp-content/uploads/2020/03/log-tyc-sporte.jpg" , Tyc sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
-#EXTINF:-1 tvg-logo="" , TNT sports
+#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/6006d9d7bc979_tntsports.jpg" , TNT sports
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/kqfqxg.m3u8?s=qrm4V9RQ0xrwN_VDsLmpSw&e=1628504821
-#EXTINF:-1 tvg-logo="" , ESPN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG1RKOGqiKsfnh27xqOPoqy3V3z2OwT6Jxgx9VqrXlXK3LzYezzgscGddpxB5zDw_OgTA&usqp=CAU" , ESPN
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/yzfwp0ngkv.m3u8?s=1ip_kbwHDZYeon3WL4IuIg&e=1628535524
-#EXTINF:-1 tvg-logo="" , ESPN 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9lA0ZO9l8MAapI9fBRnUEwZW08Uw19hLZ-g&usqp=CAU" , ESPN 2
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/xqnp3kvij9pvoub.m3u8?s=NRTnvygElJVNtXkXZsQnVA&e=1628503751
-#EXTINF:-1 , ESPN 3
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GSpOWtz_yHA/VMrBTzzfXHI/AAAAAAAAAJ4/5mQIJNyNMHo/s1600/ESPN%2B3%2Ben%2Bvivo%2Bonline.jpg" , ESPN 3
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/30lli7indcom.m3u8?s=Shv_YXrRyLhnvk5CVluQMA&e=1628504935
-#EXTINF:-1 , ESPN +
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000467110787/05e916582904d936c907491e65762d73_400x400.png" , ESPN +
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/gvvlyx08sj7.m3u8?s=6uVSJqLUgCpWkNzTtPJxrw&e=1628505617
-#EXTINF:-1 , FOX SPORT PREMIUN
+#EXTINF:-1 tvg-logo="https://www.jonatanalmeira.com/wp-content/uploads/2021/04/Fox-Sports-Premium-en-vivo-GRATIS.jpg", FOX SPORT PREMIUN
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/nqr8ua5ep6t.m3u8?s=5ir5eylQVbj4cQzAHbwzHg&e=1628506825
-#EXTINF:-1 , FOX SPORT 1
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/03/FOX-SPORTS-1-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.png" , FOX SPORT 1
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/kx8ric6rf.m3u8?s=ICej2NJQCU2F4H4lJS1tTA&e=1628505130
-#EXTINF:-1 , FOX SPORT 2
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000541103541-dc0icy-t500x500.jpg" , FOX SPORT 2
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/70ublqdqhun705w.m3u8?s=BsMcDCEEoU51hImVx2cH3g&e=1628505196
-#EXTINF:-1 , FOX SPORT 3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7c/f6/8b/7cf68b48068a15d190a1e2973804ae86.jpg" , FOX SPORT 3
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/30h9tv6w0gwaq.m3u8?s=z7qwm0onoNZrgmC4sZ6LaA&e=1628505240
-#EXTINF:-1 , GOL TV 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTGYbyhCW6fTTGkBkDDHNrmxQqLRvaQKtzM7FPgjA=s900-c-k-c0x00ffffff-no-rj" , GOL TV 
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/nt79b4v8i6.m3u8?s=8AuEz-esG_fC-kkuYT8J8g&e=1628505913
-#EXTINF:-1 , HBO 
+#EXTINF:-1 tvg-logo="" , HBO 
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/lbqtn3.m3u8?s=5shpTY_vQopdZmP-1mpePg&e=1628537059
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/hbo-2.png" , HBO 2
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/x5r58d0omlmqph.m3u8?s=7wEOkVBVTNYCkFgCfFNBrQ&e=1628538806
-#EXTINF:-1 , HBO FAMILY
+#EXTINF:-1 tvg-logo="" , HBO FAMILY
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/mfobze65eqg.m3u8?s=ei5utB2tME7ThwhFFtMBAg&e=1628536816
-#EXTINF:-1 , TNT SERIES
+#EXTINF:-1 tvg-logo="" , TNT SERIES
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/uw2t3eem.m3u8?s=XB5ysHS68KZG6oDVGu1o5Q&e=1628506055
-#EXTINF:-1 , TNT 
+#EXTINF:-1 tvg-logo="" , TNT 
 https://zua4xwedvg6osi1k.azcdn728.net:8443/hls/glaldsq.m3u8?s=tCF7mgNIv4ajg3TuZ0IlOQ&e=1628506259
